@@ -1,0 +1,7 @@
+*.bin
+*.safetensors
+*.gguf
+__pycache__/
+.env
+results/checkpoints/
+*.pkl
